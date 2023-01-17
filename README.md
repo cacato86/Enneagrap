@@ -12,6 +12,7 @@ Discover your true self with EnneagrApp, an app that helps you understand your p
 
 -   Short Enneagram Test: Quick and easy, with a high chance of identifying your main personality type within the first 3 options.
 -   Long Enneagram Test: More detailed and accurate, with a 90% certainty of identifying your personality type.
+-   Review all your last test that you have done.
 
 ## :warning: **Note**
 
